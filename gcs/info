@@ -1,6 +1,7 @@
 # YAML 1.1
 # Fichero de configuración de paquetes de personalización de Gecos v2
 
+
 # Nombre del paquete (minúsculas-separado-con-guiones)
 name: gecosws-mint-x-icons-conf
 
